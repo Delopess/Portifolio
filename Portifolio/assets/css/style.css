@@ -333,7 +333,7 @@ header{
 .imagemFundo {
     grid-column: 7/ 11;     
     grid-row: 3 / 6;
-    font-size: 20vw;
+    font-size: clamp(80px, 40vw, 140px); /* Não será menor que 50px nem maior que 100px */
     text-align: center;
     display: grid;
 }
