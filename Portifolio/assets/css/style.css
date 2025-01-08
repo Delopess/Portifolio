@@ -532,7 +532,7 @@ footer .button:hover {
 
 /* Media Queries */
 
-@media (max-width: 580px) {
+@media (max-width: 620px) {
     .field{
         background:transparent;
         border:none;
