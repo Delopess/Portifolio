@@ -543,6 +543,11 @@ footer .button:hover {
         outline:none;
         margin:2rem;
     }
+
+    .banner {
+        margin-left: -2rem;
+    }
+
     .contact-left {
         display: none;
     }
